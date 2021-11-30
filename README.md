@@ -1,5 +1,2 @@
-# pmbstikes
-# pmbstikes
 # PMBSTIKES
-# pmbstikes
-# pmbstikes
+PENERIMAAN MAHASISWA BARU STIKES
