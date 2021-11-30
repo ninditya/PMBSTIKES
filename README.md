@@ -1,2 +1,1 @@
-# PMBSTIKES
-PENERIMAAN MAHASISWA BARU STIKES
+# Information System PMBSTIKES with CodeIgniter Framework
